@@ -16,6 +16,8 @@
       <sourceFolder url="file://$MODULE_DIR$/convertiri de nr in diferite baze/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/metode care genereaza toate nr prime,nr perfecte,nr palindroame pana la o val mai mica sau egala cu un n dat/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/suma cifrelor unui n dat si calcularea numarului de cifre pare si impare ale acelui n/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/interschimbare de elemente intr un array/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tema_de_casa/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
