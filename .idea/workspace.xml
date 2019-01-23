@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3eb3821-e2eb-4912-97fa-2bf47bb0f652" name="Default Changelist" comment="new code added with 2 problems">
-      <change afterPath="$PROJECT_DIR$/out/Tema_de_Casa.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/Teste11.class" afterDir="false" />
+    <list default="true" id="c3eb3821-e2eb-4912-97fa-2bf47bb0f652" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/programe-clasa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/programe-clasa.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/afisare min si max pt n elem ale unui array; n este dat de la tastatura, la fel si elemente array/src/Teste6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/min_max/Teste6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/afisarea perechilor de nr impare gemene mai mici decat un n dat/src/Teste5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/impare_gemene/Teste5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array 2D - citire de la tastatura nr de linii si nr de coloane; introducere de la tastatura elementele arrayului; afisare array 2D cu for-each si apoi cu for normal/src/Teste7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array_2D/Teste7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array 2D - sortare crescator perimetru/src/Teste8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array_2D_sortare_crescator_perimetru/Teste8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array 2D - sortare crescator perimetru/src/Teste88.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array_2D_sortare_crescator_perimetru/Teste88.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array--introducere de valori de la tastatura cu for simplu si afisarea valorilor cu for-each/src/Teste66.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcularea unui n dat pt sirul lui fibonacci definit in cod/src/Teste3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sirul_lui_Fibonacci/Teste3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmmdc recursiv/src/Teste1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmmdc_recursiv/Teste1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/convertiri de nr in diferite baze/src/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/convertiri/Teste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interschimbare de elemente intr un array/src/Teste11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interschimbare/Teste11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metode care genereaza toate nr prime,nr perfecte,nr palindroame pana la o val mai mica sau egala cu un n dat/src/Teste2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prime_perfecte_palindroame/Teste2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Teate10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Tema_de_Casa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Teste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Teste1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Teste11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Teste2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Teste3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Teste4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Teste5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Teste6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Teste66.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Teste7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Teste8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Teste88.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/afisare_nr_de_zile/Teate10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suma cifrelor unui n dat si calcularea numarului de cifre pare si impare ale acelui n/src/Teste4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/suma_cifre_nr_cpare_nr_cimpare/Teste4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema_de_casa/src/Tema_de_Casa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tema_de_casa/Tema_de_Casa.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,91 +41,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-661587900">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="762" />
-          <entry key="txt" value="18" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="762" />
-          <entry key="PLAIN_TEXT" value="18" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-232671517">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="txt" value="47" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="47" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/interschimbare de elemente intr un array/src/Teste11.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="759">
-              <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#1182#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tema_de_casa/src/Tema_de_Casa.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -115,13 +60,26 @@
         <option value="$PROJECT_DIR$/array 2D - sortare crescator perimetru/src/Teste88.java" />
         <option value="$PROJECT_DIR$/array 2D - sortare crescator perimetru/src/Teste8.java" />
         <option value="$PROJECT_DIR$/interschimbare de elemente intr un array/src/Teste11.java" />
+        <option value="$PROJECT_DIR$/src/min_max/Teste6.java" />
+        <option value="$PROJECT_DIR$/src/afisare_nr_de_zile/Teate10.java" />
+        <option value="$PROJECT_DIR$/src/impare_gemene/Teste5.java" />
+        <option value="$PROJECT_DIR$/src/array_2D/Teste7.java" />
+        <option value="$PROJECT_DIR$/src/array_2D_sortare_crescator_perimetru/Teste8.java" />
+        <option value="$PROJECT_DIR$/src/sirul_lui_Fibonacci/Teste3.java" />
+        <option value="$PROJECT_DIR$/src/cmmdc_recursiv/Teste1.java" />
+        <option value="$PROJECT_DIR$/src/convertiri/Teste.java" />
+        <option value="$PROJECT_DIR$/src/interschimbare/Teste11.java" />
+        <option value="$PROJECT_DIR$/src/prime_perfecte_palindroame/Teste2.java" />
+        <option value="$PROJECT_DIR$/src/suma_cifre_nr_cpare_nr_cimpare/Teste4.java" />
+        <option value="$PROJECT_DIR$/src/tema_de_casa/Tema_de_Casa.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="76" />
     <option name="y" value="23" />
-    <option name="width" value="2444" />
+    <option name="width" value="2484" />
     <option name="height" value="1417" />
   </component>
   <component name="ProjectView">
@@ -129,6 +87,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,45 +99,23 @@
             <path>
               <item name="programe clasa" type="b2602c69:ProjectViewProjectNode" />
               <item name="programe clasa" type="462c0819:PsiDirectoryNode" />
-              <item name="interschimbare de elemente intr un array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="programe clasa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="programe clasa" type="462c0819:PsiDirectoryNode" />
-              <item name="interschimbare de elemente intr un array" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="programe clasa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="programe clasa" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="programe clasa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="programe clasa" type="462c0819:PsiDirectoryNode" />
-              <item name="tema_de_casa" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="programe clasa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="programe clasa" type="462c0819:PsiDirectoryNode" />
-              <item name="tema_de_casa" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545157806475" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548260475826" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -191,38 +129,86 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Tema_de_Casa">
+  <component name="RunManager" selected="Application.Teste11">
     <configuration name="Tema_de_Casa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tema_de_Casa" />
+      <option name="MAIN_CLASS_NAME" value="tema_de_casa.Tema_de_Casa" />
       <module name="programe-clasa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tema_de_casa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="afisare_nr_de_zile.Teste10" />
+      <module name="programe-clasa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="afisare_nr_de_zile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Teste11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Teste11" />
+      <option name="MAIN_CLASS_NAME" value="interschimbare.Teste11" />
       <module name="programe-clasa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interschimbare.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Teste8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Teste8" />
+    <configuration name="Teste4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="suma_cifre_nr_cpare_nr_cimpare.Teste4" />
       <module name="programe-clasa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="suma_cifre_nr_cpare_nr_cimpare.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array_2D.Teste7" />
+      <module name="programe-clasa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array_2D.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Teste8" />
-      <item itemvalue="Application.Teste11" />
+      <item itemvalue="Application.Teste4" />
       <item itemvalue="Application.Tema_de_Casa" />
+      <item itemvalue="Application.Teste10" />
+      <item itemvalue="Application.Teste7" />
+      <item itemvalue="Application.Teste11" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Tema_de_Casa" />
         <item itemvalue="Application.Teste11" />
-        <item itemvalue="Application.Teste8" />
+        <item itemvalue="Application.Teste7" />
+        <item itemvalue="Application.Teste10" />
+        <item itemvalue="Application.Tema_de_Casa" />
+        <item itemvalue="Application.Teste4" />
       </list>
     </recent_temporary>
   </component>
@@ -251,13 +237,20 @@
       <option name="project" value="LOCAL" />
       <updated>1545156854814</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new class files">
+      <created>1545158119736</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1545158119736</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="76" y="23" width="2444" height="1417" extended-state="0" />
+    <frame x="76" y="23" width="2484" height="1417" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25395504" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.42547092" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -265,15 +258,15 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38709676" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32949308" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28955454" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39938557" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32872504" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.43317974" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32949308" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32872504" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32949308" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -283,52 +276,148 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="code updated" />
     <MESSAGE value="new code added with 2 problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="new code added with 2 problems" />
+    <MESSAGE value="new class files" />
+    <option name="LAST_COMMIT_MESSAGE" value="new class files" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/array 2D - sortare crescator perimetru/src/Teste8.java">
+    <entry file="file://$PROJECT_DIR$/src/afisare_nr_de_zile/Teate10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#461#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array 2D - sortare crescator perimetru/src/Teste88.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tema_de_casa/src/Tema_de_Casa.java">
+    <entry file="file://$PROJECT_DIR$/src/min_max/Teste6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#1217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/impare_gemene/Teste5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array_2D_sortare_crescator_perimetru/Teste88.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2052">
+          <caret line="110" column="8" selection-start-line="110" selection-start-column="8" selection-end-line="110" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array_2D_sortare_crescator_perimetru/Teste8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#507#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array--introducere de valori de la tastatura cu for simplu si afisarea valorilor cu for-each/src/Teste66.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interschimbare de elemente intr un array/src/Teste11.java">
+    <entry file="file://$PROJECT_DIR$/src/sirul_lui_Fibonacci/Teste3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+        <state>
           <folding>
-            <element signature="e#0#1182#0" expanded="true" />
+            <element signature="e#0#666#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cmmdc_recursiv/Teste1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/convertiri/Teste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interschimbare/Teste11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prime_perfecte_palindroame/Teste2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/suma_cifre_nr_cpare_nr_cimpare/Teste4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tema_de_casa/Tema_de_Casa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10868">
+          <caret line="574" column="38" selection-start-line="574" selection-start-column="38" selection-end-line="574" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afisare_nr_de_zile/Teste10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array_2D/Teste7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="862">
+          <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
         </state>
       </provider>
     </entry>
